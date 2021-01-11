@@ -3,3 +3,4 @@
 @foreach($arr1 as $item)
 <h2>Your ID is {{ $item }}</h2>
 @endforeach
+
